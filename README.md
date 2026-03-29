@@ -1,4 +1,4 @@
-https://github.com/maksudurrhmn/NotesApp-React.git# 📝 Notes App
+📝 Notes App
 
 A simple and responsive Notes App built with React.  
 You can add, edit, delete, and save notes in your browser using localStorage.
